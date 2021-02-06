@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+.cur-pointer {
+  cursor: pointer;
+}
+.br-rad-left {
+  border-radius: 8px 0 0 8px;
+}
+.br-rad-right {
+  border-radius: 0 8px 8px 0;
+}
+.pos-rel {
+  position: relative;
+}
+.pos-abs {
+  position: absolute;
+}
