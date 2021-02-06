@@ -18,3 +18,10 @@
   font-size: 22px;
   padding-left: 20px;
 }
+.modal-container {
+  display: flex;
+  width: 100%;
+  flex-direction: column;
+  justify-content: space-evenly;
+  align-items: center;
+}
